@@ -1,4 +1,6 @@
 # Oi, eu sou o José Ryan! 👨‍💻
+# Graduando em Sistemas de Informação (UFPB)
+# interesse em desenvolvimento backend 💻
 
 <div>
 <a href="https://github.com/jooseryan">
