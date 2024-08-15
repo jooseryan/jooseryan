@@ -15,6 +15,6 @@
   </div>
 
 <div> 
-  </br><a href="www.linkedin.com/in/jooseryan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-35495E?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </br><a href="https://www.linkedin.com/in/jos%C3%A9-ryan-178098323/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-35495E?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jooseryan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-35495E?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
