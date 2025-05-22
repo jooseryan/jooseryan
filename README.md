@@ -9,10 +9,9 @@
 ## 📊 GitHub Stats
 
  <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jooseryan&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooseryan&layout=compact&langs_count=7&theme=blueberry"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jooseryan&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooseryan&layout=compact&langs_count=7&theme=calm"/>
 </div>
-
 
 ---
 
