@@ -1,7 +1,7 @@
 # 👨‍💻 Olá, eu sou o José Ryan!
 
 🎓 Graduando em **Sistemas de Informação** pela **UFPB**  
-🚀 Apaixonado por **Desenvolvimento Backend**, com foco em **Java**, **Spring Boot** e **PostgreSQL**  
+☕ **Desenvolvimento Backend**, com foco em **Java**, **Spring Boot** e **PostgreSQL**  
 💡 Sempre aprendendo e buscando boas práticas no desenvolvimento de software
 
 ---
