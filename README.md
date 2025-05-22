@@ -30,14 +30,11 @@
 ## 🌐 Conecte-se comigo
 
 <div>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-ryan-178098323/" target="_blank">
+  <a href="https://www.linkedin.com/in/jooseryann/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-35495E?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/jooseryan/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-35495E?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/jooseryan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-35495E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
