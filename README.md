@@ -2,25 +2,30 @@
 
 🎓 Graduando em **Sistemas de Informação** pela **UFPB**  
 ☕ **Desenvolvimento Backend**, com foco em **Java**, **Spring Boot** e **PostgreSQL**  
-💡 Sempre aprendendo e buscando boas práticas no desenvolvimento de software
+💡 Sempre aprendendo e buscando boas práticas no desenvolvimento de software  
 
 ---
 
 ## 📊 GitHub Stats
 
- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jooseryan&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooseryan&layout=compact&langs_count=7&theme=calm"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jooseryan&show_icons=true&theme=calm&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooseryan&layout=compact&langs_count=7&theme=calm" />
 </div>
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-6DB33F?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-6DB33F?style=for-the-badge&logo=angular&logoColor=white" />
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-6DB33F?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-6DB33F?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-6DB33F?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-6DB33F?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="Git" src="https://img.shields.io/badge/Git-6DB33F?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-6DB33F?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
