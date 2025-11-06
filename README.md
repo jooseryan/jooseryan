@@ -41,7 +41,7 @@ Desenvolvedor **Back-end** com foco em **Java | Spring Boot | PostgreSQL**
 ✅ Modelagem e otimização de bancos de dados relacionais                                                                     
 ✅ Criação de dashboards e análise de dados com Power BI                                                                     
 ✅ Boas práticas de código, segurança e versionamento                                                                        
-✅ Automação e scripts com Python                                                                                            
+✅ Automação e scripts com Python     
 
 ---
 
@@ -56,3 +56,7 @@ Desenvolvedor **Back-end** com foco em **Java | Spring Boot | PostgreSQL**
   </a>
   
 </div>
+
+---
+
+
